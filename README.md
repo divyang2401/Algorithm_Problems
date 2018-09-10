@@ -108,31 +108,31 @@
   <th><a href="https://projecteuler.net/problem=21">21</a></th>
   <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/amicable_numbers_E21.java">Amicable numbers</a></th>
   <th>Java</th>
-  <th>Easy</th>
+  <th>Medium</th>
 </tr>
 <tr>
   <th><a href="https://projecteuler.net/problem=22">22</a></th>
   <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/name_scores_E22.java">Names scores</a></th>
   <th>Java</th>
-  <th>Easy</th>
+  <th>Medium</th>
 </tr>
 <tr>
   <th><a href="https://projecteuler.net/problem=25">25</a></th>
   <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/fibonaci_1000_digit_E25.java">1000-digit Fibonacci number</a></th>
   <th>Java</th>
-  <th>Easy</th>
+  <th>Medium</th>
 </tr>
 <tr>
   <th><a href="https://projecteuler.net/problem=29">29</a></th>
   <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/distinct_powers_E29.java">Distinct powers</a></th>
   <th>Java</th>
-  <th>Easy</th>
+  <th>Medium</th>
 </tr>
 <tr>
   <th><a href="https://projecteuler.net/problem=30">30</a></th>
   <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/digit_fifth_powers_E30.java">Digit fifth powers</a></th>
   <th>Java</th>
-  <th>Easy</th>
+  <th>Medium</th>
 </tr>
 <tr>
   <th><a href="https://projecteuler.net/problem=31">31</a></th>
