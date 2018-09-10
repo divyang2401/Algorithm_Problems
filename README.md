@@ -1,7 +1,7 @@
 # Algorithm_Problems
-<h2>LeetCode</h2>
+<h2>Project Euler</h2>
 
-<h3>LeetCode PlayGround</h3>
+<h3>Project Euler PlayGround</h3>
 
 <table>
 
