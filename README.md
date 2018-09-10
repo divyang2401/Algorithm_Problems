@@ -13,19 +13,19 @@
 </tr>
 <tr>//8
   <th><a href="https://projecteuler.net/problem=8">8</a></th>
-  <th><a href="">Largest product in a series</a></th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/largest_product_in_a_series_euler_8.txt">Largest product in a series</a></th>
   <th>Java</th>
   <th>Easy</th>
 </tr>
 <tr>//9
   <th><a href="https://projecteuler.net/problem=9">9</a></th>
-  <th><a href="">Special Pythagorean triplet</a></th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/Special%20Pythagorean%20tripletE9.txt">Special Pythagorean triplet</a></th>
   <th>Java</th>
   <th>Easy</th>
 </tr>
 <tr>//10
   <th><a href="https://projecteuler.net/problem=10">10</a></th>
-  <th><a href="">Summation of primes</a></th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/Prime_summation_E10.txt">Summation of primes</a></th>
   <th>Java</th>
   <th>Easy</th>
 </tr>
@@ -37,49 +37,49 @@
 </tr>
 <tr>//12
   <th><a href="https://projecteuler.net/problem=12">12</a></th>
-  <th><a href="">Highly divisible triangular number</a></th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/highly_divisable_triangular_numer_E12.txt">Highly divisible triangular number</a></th>
   <th>Java</th>
   <th>Easy</th>
 </tr>
 <tr>//13
   <th><a href="https://projecteuler.net/problem=13">13</a></th>
-  <th><a href="">Large sum</a></th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/large_sum_E13.txt">Large sum</a></th>
   <th>Java</th>
   <th>Easy</th>
 </tr>
 <tr>//14
   <th><a href="https://projecteuler.net/problem=14">14</a></th>
-  <th><a href="">Longest Collatz sequence</a></th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/Longest_collatz_sequence_E14.txt">Longest Collatz sequence</a></th>
   <th>Java</th>
   <th>Easy</th>
 </tr>
 <tr>//15
   <th><a href="https://projecteuler.net/problem=15">15</a></th>
-  <th><a href="">Lattice paths</a></th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/latice_paths_E15.txt">Lattice paths</a></th>
   <th>Java</th>
   <th>Easy</th>
 </tr>
 <tr>//16
   <th><a href="https://projecteuler.net/problem=16">16</a></th>
-  <th><a href="">Power digit sum</a></th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/sumof_2_power_1000_E16.txt">Power digit sum</a></th>
   <th>Java</th>
   <th>Easy</th>
 </tr>
 <tr>//17
   <th><a href="https://projecteuler.net/problem=17">17</a></th>
-  <th><a href="">Number letter counts</a></th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/number_letter_counts_E17.txt">Number letter counts</a></th>
   <th>Java</th>
   <th>Easy</th>
 </tr>
 <tr>//18
   <th><a href="https://projecteuler.net/problem=18">18</a></th>
-  <th><a href="">Maximum path sum I</a></th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/max_sum_triangleE18.txt">Maximum path sum I</a></th>
   <th>Java</th>
   <th>Easy</th>
 </tr>
 <tr>//20
   <th><a href="https://projecteuler.net/problem=20">20</a></th>
-  <th><a href="">Factorial digit sum</a></th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/sum_of_digits_100factorial_E20.txt">Factorial digit sum</a></th>
   <th>Java</th>
   <th>Easy</th>
 </tr>
