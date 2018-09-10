@@ -18,12 +18,6 @@
   <th>Easy</th>
 </tr>
 
-<tr>
-  <th>*</th>
-  <th>Utility</th>
-  <th>Java</th>
-  <th>*</th>
-</tr>
 
 
 </table>
