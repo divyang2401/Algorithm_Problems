@@ -171,3 +171,39 @@
   <th>Hard</th>
 </tr>
 </table>
+<h4>Leet Code</h4>
+ <h5> Problems: </h5>
+<table>
+<tr>
+  <th>No.</th>
+  <th>Title</th>
+  <th>Solution</th>
+  <th>Difficulty</th>
+</tr>
+<tr>
+  <th><a href="https://leetcode.com/problems/binary-watch/description/">401</a></th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/LeetCode_solution/BinaryWatchlc401.java">Binary Watch</a></th>
+  <th>Java</th>
+  <th>Easy</th>
+</tr>
+<tr>
+  <th><a href="https://leetcode.com/problems/number-of-1-bits/description/">191</a></th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/LeetCode_solution/number_of_1_bits_lc191.java">Number of 1 Bits</a></th>
+  <th>Java</th>
+  <th>Easy</th>
+</tr>
+<tr>
+  <th><a href="https://leetcode.com/problems/reverse-bits/description/">190</a></th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/LeetCode_solution/reverse_bits_lc190.java">Reverse Bits</a></th>
+  <th>Java</th>
+  <th>Easy</th>
+</tr>
+<tr>
+  <th><a href="https://leetcode.com/problems/reverse-integer/description/">7</a></th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/LeetCode_solution/reverse_integer_lc7.java">Reverse Integer</a></th>
+  <th>Java</th>
+  <th>Easy</th>
+</tr>
+
+
+</table>
