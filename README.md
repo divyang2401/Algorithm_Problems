@@ -104,75 +104,70 @@
   <th>Java</th>
   <th>Easy</th>
 </tr>
-<tr>//21
+<tr>
   <th><a href="https://projecteuler.net/problem=21">21</a></th>
   <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/amicable_numbers_E21.java">Amicable numbers</a></th>
   <th>Java</th>
   <th>Easy</th>
 </tr>
-<tr>//22
+<tr>
   <th><a href="https://projecteuler.net/problem=22">22</a></th>
   <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/name_scores_E22.java">Names scores</a></th>
   <th>Java</th>
   <th>Easy</th>
 </tr>
-<tr>//25
+<tr>
   <th><a href="https://projecteuler.net/problem=25">25</a></th>
   <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/fibonaci_1000_digit_E25.java">1000-digit Fibonacci number</a></th>
   <th>Java</th>
   <th>Easy</th>
 </tr>
-<tr>//29
+<tr>
   <th><a href="https://projecteuler.net/problem=29">29</a></th>
   <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/distinct_powers_E29.java">Distinct powers</a></th>
   <th>Java</th>
   <th>Easy</th>
 </tr>
-<tr>//30
+<tr>
   <th><a href="https://projecteuler.net/problem=30">30</a></th>
   <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/digit_fifth_powers_E30.java">Digit fifth powers</a></th>
   <th>Java</th>
   <th>Easy</th>
 </tr>
-<tr>//31
+<tr>
   <th><a href="https://projecteuler.net/problem=31">31</a></th>
   <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/coin_sums_E31.java">Coin sums</a></th>
   <th>Java</th>
   <th>Medium</th>
 </tr>
-<tr>//34
+<tr>
   <th><a href="https://projecteuler.net/problem=34">34</a></th>
   <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/digit_factorials_E34.java">Digit factorials</a></th>
   <th>Java</th>
   <th>Medium</th>
 </tr>
-<tr>//35
+<tr>
   <th><a href="https://projecteuler.net/problem=35">35</a></th>
   <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/circular_primes_E35.java">Circular primes</a></th>
   <th>Java</th>
   <th>Medium</th>
 </tr>
-<tr>//36
+<tr>
   <th><a href="https://projecteuler.net/problem=36">36</a></th>
   <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/double_base_palindromes_E36.java">Double-base palindromes</a></th>
   <th>Java</th>
   <th>Medium</th>
 </tr>
-<tr>//39
+<tr>
   <th><a href="https://projecteuler.net/problem=39">39</a></th>
   <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/integer_right_angle_triangles_E39.java">Integer right triangles</a></th>
   <th>Java</th>
   <th>Medium</th>
 </tr>
-<tr>//45
+<tr>
   <th><a href="https://projecteuler.net/problem=45">45</a></th>
   <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Solution/triangular_pentagon_hexagon_E45.java">	Triangular, pentagonal, and hexagonal</a></th>
   <th>Java</th>
   <th>Hard</th>
 </tr>
-
-
-
-
-
 </table>
