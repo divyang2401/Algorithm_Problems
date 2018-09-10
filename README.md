@@ -203,7 +203,89 @@
   <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/LeetCode_solution/reverse_integer_lc7.java">Reverse Integer</a></th>
   <th>Java</th>
   <th>Easy</th>
+  </tr>
+</table>
+<h6>Cracking The Coding Interview Exercises</h6>
+<table>
+<tr>
+  <th>No.</th>
+  <th>Title</th>
+  <th>Solution</th>
+  <th>Chapter</th>
 </tr>
-
-
+<tr>
+  <th>1</th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Cracking_The_Coding_Interview_Exercises/Flip_bit_longest_sequence_CTCI.java">Flip Bit Longest Sequence</a></th>
+  <th>Java</th>
+  <th>Bit manipulation</th>
+</tr>
+<tr>
+  <th>2</th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Cracking_The_Coding_Interview_Exercises/URLify_CTCI_chap1.java">URLify</a></th>
+  <th>Java</th>
+  <th>1</th>
+</tr>
+<tr>
+  <th>3</th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Cracking_The_Coding_Interview_Exercises/Unique_String_charcters_CTCI_ch1.java">Unique String Characters</a></th>
+  <th>Java</th>
+  <th>1</th>
+</tr>
+<tr>
+  <th>4</th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Cracking_The_Coding_Interview_Exercises/check_permutation_String_CTCI_chap1.java">Check Permutation of String</a></th>
+  <th>Java</th>
+  <th>Bit manipulation</th>
+</tr>
+<tr>
+  <th>5</th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Cracking_The_Coding_Interview_Exercises/nextSmallest_largest_Integer_CTCI.java">Next Smallest & Largest Integer</a></th>
+  <th>Java</th>
+  <th>Bit manipulation</th>
+</tr>
+</table> 
+<h7>Other Problems:</h7>
+<table>
+<tr>
+  <th>No.</th>
+  <th>Title</th>
+  <th>Solution</th>
+  <th>Platform</th>
+</tr>
+<tr>
+  <th>1</th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Other%20Problems/ALL_NumberConverter.java">All Base Converter</a></th>
+  <th>Java</th>
+  <th>Bloomberg coding</th>
+</tr>
+<tr>
+  <th>2</th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Other%20Problems/byte_landing_code_chef.java">Byte Landing</a></th>
+  <th>Java</th>
+  <th>Code Chef</th>
+</tr>
+<tr>
+  <th>3</th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Other%20Problems/divisablebyrange.java">Divisable By Range</a></th>
+  <th>Java</th>
+  <th>--</th>
+</tr>
+<tr>
+  <th>4</th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Other%20Problems/edit_distance.java">Edit Distance</a></th>
+  <th>Java</th>
+  <th>--</th>
+</tr>
+<tr>
+  <th>5</th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Other%20Problems/palindrome_Divisors.java">Palindrome Divisors</a></th>
+  <th>Java</th>
+  <th>--</th>
+</tr>
+<tr>
+  <th>6</th>
+  <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Other%20Problems/ways_of_summation.java">Ways of Summation- Dynamic Programming</a></th>
+  <th>Java</th>
+  <th>--</th>
+</tr>
 </table>
