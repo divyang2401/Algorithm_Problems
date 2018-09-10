@@ -1,10 +1,7 @@
 # Algorithm_Problems
 <h2>Project Euler</h2>
-
-<h3>Project Euler PlayGround</h3>
-
+<h3>Project Euler Problems:</h3>
 <table>
-
 <tr>
   <th>No.</th>
   <th>Title</th>
