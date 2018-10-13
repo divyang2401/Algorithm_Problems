@@ -23,7 +23,7 @@ private static int[][] tableFormation(String str1, String str2){
          
      }
  }   
-    
+ return T[str1Length][str2Length] ;  
 }    
     
     
@@ -31,6 +31,7 @@ private static int[][] tableFormation(String str1, String str2){
 public static void main(String[] args){    
 String str1 ="abcdef";
 String str2= "azced";
+System.out.println(tableFormation(str1,str2)); 
     
     
     
