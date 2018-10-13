@@ -16,7 +16,7 @@ return sort(a).equals(sort(b));
     
 }    
 private static boolean checkPermutationByArray(String a, String b){    
-/*My Approach:
+/*
 if(a.length()!=b.length()){return false;}
 int[] aarray =new int[128];
 int[] barray =new int[128];
