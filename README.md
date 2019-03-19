@@ -218,7 +218,7 @@
   <th>1</th>
   <th><a href="https://github.com/divyang2401/Algorithm_Problems/blob/master/Other%20Problems/ALL_NumberConverter.java">All Base Converter</a></th>
   <th>Java</th>
-  <th>Bloomberg coding</th>
+  <th>----</th>
 </tr>
 <tr>
   <th>2</th>
