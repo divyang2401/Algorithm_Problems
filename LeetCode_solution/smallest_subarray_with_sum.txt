@@ -1,0 +1,37 @@
+public class HelloWorld{
+
+
+public static int sumOfSubArray(int[] array, int s){
+    
+int windowStart=0;
+int windowEnd;
+int windowSum=0;
+
+int minLength=Integer.MAX_VALUE;
+
+for(windowEnd=0;windowEnd<array.length;windowEnd++){
+ windowSum+=array[windowEnd];
+
+ 
+ while(windowSum>=s){
+    minLength=Math.min(minLength,windowEnd-windowStart+1);
+    windowSum=windowSum-array[windowStart];
+    windowStart++;
+    //windowEnd--;
+         
+ }
+ 
+}    
+
+ return minLength>0?minLength:0;   
+    
+}
+
+
+
+
+     public static void main(String []args){
+         int[] array=new int[]{2,1,5,2,3,2};
+        System.out.println(sumOfSubArray(array,7));
+     }
+}
